@@ -11,4 +11,4 @@ We aim to develop an image analysis and machine learning pipeline for automated 
 5. Compute contour-based area of segmented color channels.
 6. Sweat rate and Cl concentration is estimated from contour-based area using a pre-calibrated and trained regression model.
 
-The pre-trained regression is trained with ground truth labels using similar pre-processing 
+The regression model mentioned above is trained with known ground truth numbers and with similar pre-processing of images
